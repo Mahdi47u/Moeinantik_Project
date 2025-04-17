@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\MoeinAntik_Project\\Code\\MoeinAntik\\0_Framework\\0_Framework.csproj": {}
+    "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\0_Framework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\MoeinAntik_Project\\Code\\MoeinAntik\\0_Framework\\0_Framework.csproj": {
+    "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\MoeinAntik_Project\\Code\\MoeinAntik\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\MoeinAntik_Project\\Code\\MoeinAntik\\0_Framework\\0_Framework.csproj",
+        "projectPath": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\Mahdi_PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\MoeinAntik_Project\\Code\\MoeinAntik\\0_Framework\\obj\\",
+        "outputPath": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahdi_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

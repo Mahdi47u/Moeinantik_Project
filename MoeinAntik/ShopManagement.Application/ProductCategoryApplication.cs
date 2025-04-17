@@ -16,7 +16,7 @@ namespace ShopManagement.Application
         public OperationResult Create(CreateProductCategory command)
         {
             var operation = new OperationResult();
-            if (_ProductCategoryRepository.isExist(x=>x.Name == command.Name))
+            if (_ProductCategoryRepository.Exists(x=>x.Name == command.Name))
                 return operation.Failed("امکان ثبت اطلاعات جدید وجود ندارد، لطفا مجددا تلاش بفرمایید");
 
             var slug = command.Slug.GenerateSlug();
@@ -32,15 +32,16 @@ namespace ShopManagement.Application
         public OperationResult Edit(EditProductCategory command)
         {
             var opertion = new OperationResult();
-            var productCategory = _ProductCategoryRepository.GetById(command.Id);
+            var productCategory = _ProductCategoryRepository.Get(command.Id);
             if (productCategory == null)            
             {
                 return opertion.Failed("نتیجه ای برای درخواست شما پیدا نشد");
             }
-            if (_ProductCategoryRepository.isExist(x => x.Name == command.Name && x.Id != command.Id)) {
+            if (_ProductCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id)) {
                 return opertion.Failed("نتیجه ای برای درخواست شما پیدا نشد");
             
                 }
+            
             var slug = command.Slug.GenerateSlug();
             productCategory.Edit(command.Name, command.Description, command.Picture,
                 command.PictureAlt, command.PictureTitle, command.Keywords,
