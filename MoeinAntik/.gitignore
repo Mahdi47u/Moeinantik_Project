@@ -1,0 +1,23 @@
+# Build & project files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# NuGet & packages
+packages/
+*.nupkg
+.nuget/
+
+# IDE & editor files
+.idea/
+.vscode/
+*.swp
+*.sln.iml
+
+# Test results
+TestResults/
+*.coverage

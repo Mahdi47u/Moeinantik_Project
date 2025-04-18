@@ -19,9 +19,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Infrastructure", "SM.Infrastructure", "{5ED28245-6301-4853-AD09-195C168C3707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructure.EFcore", "ShopManagement.Infrastructure.EFcore\ShopManagement.Infrastructure.EFcore.csproj", "{434748B7-849D-4EC6-B585-920F8652F15E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Infrastructure.EFcore", "ShopManagement.Infrastructure.EFcore\ShopManagement.Infrastructure.EFcore.csproj", "{434748B7-849D-4EC6-B585-920F8652F15E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Management.Configuration", "Shop.Management.Configuration\Shop.Management.Configuration.csproj", "{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Management.Configuration", "Shop.Management.Configuration\Shop.Management.Configuration.csproj", "{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EFA8D845-D135-4FBB-98AE-FE802399A0DE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +60,10 @@ Global
 		{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

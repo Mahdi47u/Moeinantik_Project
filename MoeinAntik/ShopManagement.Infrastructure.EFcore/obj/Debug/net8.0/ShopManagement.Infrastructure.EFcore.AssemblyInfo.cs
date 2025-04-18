@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopManagement.Infrastructure.EFcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52bdc7afd3b722da9b575c0618a42cb0cad7b379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4cf3b025c1658bae1e62ee45a950b9ea9582ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopManagement.Infrastructure.EFcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopManagement.Infrastructure.EFcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
