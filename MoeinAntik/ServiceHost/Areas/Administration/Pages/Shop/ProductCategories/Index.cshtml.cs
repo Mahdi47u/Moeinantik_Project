@@ -6,6 +6,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
 {
     public class IndexModel : PageModel
     {
+        public ProductCategorySearchModel SearchModel;
         public List<ProductCategoryViewModel> ProductCategories;
         private readonly IProductCategoryApplication _productCategoryApplication;
 

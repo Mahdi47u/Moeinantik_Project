@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MoeinAntik",
-    "\\MoeinAntik\\ShopManagement.Application",
-    "\\MoeinAntik\\ShopManagement.Application.Contracts",
-    "\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory"
+    "\\MoeinAntik"
   ],
   "PreviewInSolutionExplorer": false
 }

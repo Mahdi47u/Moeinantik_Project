@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,8 +43,7 @@
               "RelativeToolTip": "MoeinAntik\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T20:09:07.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T20:09:07.692Z"
             }
           ]
         }
