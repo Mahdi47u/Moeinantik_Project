@@ -17,7 +17,7 @@ namespace ShopManagement.Application
         {
             var operation = new OperationResult();
             if (_ProductCategoryRepository.Exists(x=>x.Name == command.Name))
-                return operation.Failed("امکان ثبت اطلاعات جدید وجود ندارد، لطفا مجددا تلاش بفرمایید");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.GenerateSlug();
             var productCategory = new ProductCategory(command.Name, command.Description, command.Picture, command.PictureAlt,
@@ -35,11 +35,12 @@ namespace ShopManagement.Application
             var productCategory = _ProductCategoryRepository.Get(command.Id);
             if (productCategory == null)            
             {
-                return opertion.Failed("نتیجه ای برای درخواست شما پیدا نشد");
+                return opertion.Failed(ApplicationMessages.RecordNotFound);
             }
             if (_ProductCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id)) {
-                return opertion.Failed("نتیجه ای برای درخواست شما پیدا نشد");
-            
+                return opertion.Failed(ApplicationMessages.DuplicatedRecord);
+
+
                 }
             
             var slug = command.Slug.GenerateSlug();

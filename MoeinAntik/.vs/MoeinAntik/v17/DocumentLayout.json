@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5879CED-F1D1-4316-96B1-37626DF2DD21}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.application.contracts\\productcategory\\createproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5879CED-F1D1-4316-96B1-37626DF2DD21}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\createproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{434748B7-849D-4EC6-B585-920F8652F15E}|ShopManagement.Infrastructure.EFcore\\ShopManagement.Infrastructure.EFcore.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434748B7-849D-4EC6-B585-920F8652F15E}|ShopManagement.Infrastructure.EFcore\\ShopManagement.Infrastructure.EFcore.csproj|solutionrelative:shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CEFBE1EF-1CC0-4C7C-B65D-273DB6090938}|ShopManagement.Application\\ShopManagement.Application.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFBE1EF-1CC0-4C7C-B65D-273DB6090938}|ShopManagement.Application\\ShopManagement.Application.csproj|solutionrelative:shopmanagement.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5879CED-F1D1-4316-96B1-37626DF2DD21}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.application.contracts\\productcategory\\editproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5879CED-F1D1-4316-96B1-37626DF2DD21}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productcategory\\editproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productcategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01EE7B8-4871-4671-9EDA-9DD48DD3E679}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\application\\validationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\application\\validationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\infrastructure\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,24 +103,12 @@
       "RelativeMoniker": "D:0:0:{8BC0E48F-288B-4416-BCED-BA9E9D9483B3}|Shop.Management.Configuration\\Shop.Management.Configuration.csproj|solutionrelative:shop.management.configuration\\shopmanagementboostrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{434748B7-849D-4EC6-B585-920F8652F15E}|ShopManagement.Infrastructure.EFcore\\ShopManagement.Infrastructure.EFcore.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{434748B7-849D-4EC6-B585-920F8652F15E}|ShopManagement.Infrastructure.EFcore\\ShopManagement.Infrastructure.EFcore.csproj|solutionrelative:shopmanagement.infrastructure.efcore\\repository\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E92443D-7692-446B-9726-A5C78C8EE251}|ShopManagement.Domain\\ShopManagement.Domain.csproj|solutionrelative:shopmanagement.domain\\productcategoryagg\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\domain\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFBE1EF-1CC0-4C7C-B65D-273DB6090938}|ShopManagement.Application\\ShopManagement.Application.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\shopmanagement.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFBE1EF-1CC0-4C7C-B65D-273DB6090938}|ShopManagement.Application\\ShopManagement.Application.csproj|solutionrelative:shopmanagement.application\\productcategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\domain\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\application\\slugify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\application\\slugify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|c:\\users\\mahdi_pc\\desktop\\code files\\c#\\course learning\\moeinantik_website\\moeinantik\\0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA43A69A-B186-4F20-8BB3-D3C396497EBA}|0_Framework\\0_Framework.csproj|solutionrelative:0_framework\\application\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,76 +138,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EditProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory\\EditProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\EditProductCategory.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory\\EditProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\EditProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:09:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Edit.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Edit.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAHAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T19:39:28.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T19:35:35.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T19:39:28.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T19:45:35.161Z",
-              "EditorCaption": ""
+              "Title": "ProductCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application\\ProductCategoryApplication.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application\\ProductCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application\\ProductCategoryApplication.cs",
+              "RelativeToolTip": "ShopManagement.Application\\ProductCategoryApplication.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:41:23.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
               "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T12:27:57.961Z",
+              "WhenOpened": "2025-04-20T12:27:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T19:35:35.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductCategory\\CreateProductCategory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:11:05.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:07:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductCategories\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T12:59:45.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T12:59:45.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:48:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwGgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T19:45:35.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -207,7 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "ValidationMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\ValidationMessages.cs",
+              "RelativeDocumentMoniker": "0_Framework\\Application\\ValidationMessages.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\ValidationMessages.cs",
+              "RelativeToolTip": "0_Framework\\Application\\ValidationMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:10:05.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
               "RelativeDocumentMoniker": "ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
@@ -219,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Infrastructure\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "0_Framework\\Infrastructure\\RepositoryBase.cs",
@@ -227,12 +307,11 @@
               "RelativeToolTip": "0_Framework\\Infrastructure\\RepositoryBase.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:52:34.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T17:52:34.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ServiceHost\\Properties\\launchSettings.json",
@@ -244,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
@@ -256,7 +335,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\OperationResult.cs",
+              "RelativeDocumentMoniker": "0_Framework\\Application\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\OperationResult.cs",
+              "RelativeToolTip": "0_Framework\\Application\\OperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:20:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
@@ -268,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\appsettings.json",
               "RelativeDocumentMoniker": "ServiceHost\\appsettings.json",
@@ -280,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\_ViewStart.cshtml",
@@ -292,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Areas\\Administration\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\_ViewImports.cshtml",
@@ -304,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\Program.cs",
               "RelativeDocumentMoniker": "ServiceHost\\Program.cs",
@@ -316,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ServiceHost\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ServiceHost\\ScaffoldingReadMe.txt",
@@ -328,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -340,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "ShopManagementBoostrapper.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\Shop.Management.Configuration\\ShopManagementBoostrapper.cs",
               "RelativeDocumentMoniker": "Shop.Management.Configuration\\ShopManagementBoostrapper.cs",
@@ -352,31 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
-              "RelativeToolTip": "ShopManagement.Infrastructure.EFcore\\Repository\\ProductCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:07:55.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
-              "RelativeToolTip": "ShopManagement.Domain\\ProductCategoryAgg\\ProductCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:48:25.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "IProductCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
               "RelativeDocumentMoniker": "ShopManagement.Domain\\ProductCategoryAgg\\IProductCategoryRepository.cs",
@@ -388,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Domain\\IRepository.cs",
               "RelativeDocumentMoniker": "0_Framework\\Domain\\IRepository.cs",
@@ -400,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Domain\\EntityBase.cs",
               "RelativeDocumentMoniker": "0_Framework\\Domain\\EntityBase.cs",
@@ -412,19 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductCategoryApplication.cs",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application\\ProductCategoryApplication.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application\\ProductCategoryApplication.cs",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application\\ProductCategoryApplication.cs",
-              "RelativeToolTip": "ShopManagement.Application\\ProductCategoryApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T17:41:23.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ProductCategoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
               "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductCategory\\ProductCategoryViewModel.cs",
@@ -436,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "ShopContext.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\ShopContext.cs",
               "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFcore\\ShopContext.cs",
@@ -448,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "ProductCategoryMapping.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\ShopManagement.Infrastructure.EFcore\\Mapping\\ProductCategoryMapping.cs",
               "RelativeDocumentMoniker": "ShopManagement.Infrastructure.EFcore\\Mapping\\ProductCategoryMapping.cs",
@@ -460,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Slugify.cs",
               "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\Slugify.cs",
               "RelativeDocumentMoniker": "0_Framework\\Application\\Slugify.cs",
@@ -469,18 +524,6 @@
               "ViewState": "AQIAAA8AAAAAAAAAAIBJwB4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T19:55:29.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OperationResult.cs",
-              "DocumentMoniker": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\OperationResult.cs",
-              "RelativeDocumentMoniker": "0_Framework\\Application\\OperationResult.cs",
-              "ToolTip": "C:\\Users\\Mahdi_PC\\Desktop\\Code files\\C#\\Course learning\\Moeinantik_website\\MoeinAntik\\0_Framework\\Application\\OperationResult.cs",
-              "RelativeToolTip": "0_Framework\\Application\\OperationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:20:03.943Z"
             }
           ]
         }
