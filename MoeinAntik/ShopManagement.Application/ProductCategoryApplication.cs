@@ -56,6 +56,11 @@ namespace ShopManagement.Application
             return _ProductCategoryRepository.GetDetails(id);
         }
 
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _ProductCategoryRepository.GetProductCategories();
+        }
+
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel SearchModel)
         {
             return _ProductCategoryRepository.Search(SearchModel);
